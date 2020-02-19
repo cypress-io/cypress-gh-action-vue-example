@@ -1,36 +1,5 @@
 # cypress-gh-action-vue-example
 
-Example scaffolded using `vue-cli` and tested in GH Actions using [cypress-io/github-action](https://github.com/cypress-io/github-action)
+![Action status](https://github.com/cypress-io/cypress-gh-action-vue-example/workflows/main/badge.svg?branch=master)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Example scaffolded using `vue-cli` and tested in GH Actions using [cypress-io/github-action](https://github.com/cypress-io/github-action). See [.github/workflows/main.yml](.github/workflows/main.yml) file.
