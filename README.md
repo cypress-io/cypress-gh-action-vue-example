@@ -1,5 +1,7 @@
 # cypress-gh-action-vue-example
 
+Example scaffolded using `vue-cli` and tested in GH Actions using [cypress-io/github-action](https://github.com/cypress-io/github-action)
+
 ## Project setup
 ```
 npm install
